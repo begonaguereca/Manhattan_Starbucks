@@ -1,6 +1,6 @@
 # Starbucks in Manhattan, NY
 
-Implemented a Javascript program that downloads the Starbucks locations in Manhattan, parses it, and plots the locations on a map. If you click on an individual Starbucks you will get a pop-up notification with the address and phone number of that location.
+Implemented a Javascript program that downloads the Starbucks locations in Manhattan, NY- parses it and plots the locations on a map using the Mapbox GL library. If you click on an individual Starbucks location you will get a pop-up notification with the address and phone number of that location.
 
 ### Installing
 
