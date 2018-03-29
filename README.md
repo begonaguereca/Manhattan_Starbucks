@@ -15,6 +15,6 @@ npm run server-dev
 
 ### Watch
 
-Watch a demo of the final product here: https://www.youtube.com/watch?v=ONhDNNDu5pA
+Watch a demo of the final product here: https://www.youtube.com/watch?v=s0--fuNcOsI
 
 <img width="842" alt="screen shot 2018-03-29 at 10 05 39 am" src="https://user-images.githubusercontent.com/19557880/38103033-047afa2a-333a-11e8-8738-351b9cc21d18.png">
