@@ -30,7 +30,7 @@ class App extends React.Component {
       <div className="container-fluid">
         <div className="row">
           <div className="col-md-12">
-            <h1 className="text-center"><b>Starbucks   Manhattan,NY</b></h1>
+            <h1 className="text-center"><b>Starbucks Manhattan, NY</b></h1>
           </div>
         </div>
         <div className="row">
