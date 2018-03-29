@@ -1,0 +1,34 @@
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #EDEDED;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: -3px;
+  line-height: 1;
+  text-shadow: #555 3px 2px 0;
+  position: relative;
+  padding: 15px;
+}
+
+#mapContainer {
+  width:700px;
+  height: 600px;
+}
+
+.marker {
+    background-image: url("https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/starbucks-16.png");
+    background-color: white;
+    width: 15px;
+    height: 15px;
+    display: block;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+}
+
+body {
+  background-color: #00704a;
+}
